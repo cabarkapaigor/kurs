@@ -1,0 +1,3 @@
+Ovo je drugi fajl; Prvi red
+Drugi red
+Treci red
